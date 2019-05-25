@@ -1,0 +1,14 @@
+.nav-wrapper, .page-footer{
+	background: #3F1052 !important;
+}
+
+.img-nav{
+	height: 60px;
+	width: auto;
+	border: 2px solid white;
+}
+
+.nav-title{
+	height: auto;
+	width: 100%;
+}
